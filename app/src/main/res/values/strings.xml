@@ -1,5 +1,4 @@
 <resources>
-    //国名表示
     <string name="app_name">課題11</string>
     <string-array name="country_name">
         <item>日本</item>

@@ -1,0 +1,21 @@
+<resources>
+    //国名表示
+    <string name="app_name">課題11</string>
+    <string-array name="country_name">
+        <item>日本</item>
+        <item>アメリカ</item>
+        <item>フランス</item>
+        <item>スペイン</item>
+        <item>中国</item>
+        <item>イタリア</item>
+        <item>メキシコ</item>
+        <item>イギリス</item>
+        <item>トルコ</item>
+        <item>ドイツ</item>
+        <item>タイ</item>
+        <item>スイス</item>
+        <item>ロシア</item>
+        <item>スイス</item>
+        <item>韓国</item>
+    </string-array>
+</resources>
